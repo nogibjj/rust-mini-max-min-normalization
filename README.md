@@ -1,5 +1,6 @@
-# rust-new-project-template
-A good starting point for a new Rust project
+# Week 1 Demo: Min-Max Normalization in Rust CLI
+
+Here is a min-max normalization method in RUST Command Line Tools.
 
 ## References
 
